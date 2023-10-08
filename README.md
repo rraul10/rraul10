@@ -2,7 +2,7 @@
 <h1 align="center"> Hola! Soy Raúl </h1>
 </div> 
 
-## SOBRE MI
+## Sobre mi
 
 ¡Hola! Soy Raúl, soy un estudiante de Desarrollo de Aplicaciones Web en el IES Luis Vives. Soy un joven novato 🧑‍🎓que empieza su viaje hacia el mundo🌍 de la informatica💻.
 - FORMACIÓN ACADEMICA:
