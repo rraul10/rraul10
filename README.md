@@ -9,5 +9,5 @@
 - 📚 Grado medio de Instalaciones de Telecomunicaciones. (2021-2023)
 - 📚 Educación secundaria obligatoria. (2015-2019)
 - HOBBIES
-Soy un chico que desde pequeño le ha gustado mucho el deporte, hice karate llegando al cinturón negro🥋 y futbol desde que tengo uso de razón⚽. La musica es otro de mis hobbies mezclandolo con el deporte, salir a correr solo con musica es uno de mis mejores hobbies cuando tengo tiempo.🏃‍♂️
+Soy un chico que desde pequeño le ha gustado mucho el deporte, hice karate llegando al cinturón negro🥋 y futbol desde que tengo 3 años⚽. La musica es otro de mis hobbies mezclandolo con el deporte, salir a correr solo con musica es uno de mis mejores hobbies cuando tengo tiempo.🏃‍♂️
 ![octocat-1696593728356](https://github.com/rraul10/rraaul10/assets/146001066/1c4968ab-9cc0-473a-a0cb-4070681c5be1)
