@@ -1,4 +1,4 @@
-¡Hola! Soy Raúl, soy un estudiante de Desarrollo de Aplicaciones Web en el IES Luis Vives. Soy un estudiante🧑‍🎓 joven que empieza su viaje hacia el mundo🌍 de la informatica💻.
+¡Hola! Soy Raúl, soy un estudiante de Desarrollo de Aplicaciones Web en el IES Luis Vives. Soy un joven novato 🧑‍🎓que empieza su viaje hacia el mundo🌍 de la informatica💻.
 - FORMACIÓN ACADEMICA:
 - 📚 Grado medio de Instalaciones de Telecomunicaciones. (2021-2023)
 - 📚 Educación secundaria obligatoria. (2015-2019)
