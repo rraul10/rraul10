@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> Hola! Soy Raúl </h1>
 </div> 
-<img src=  (https://github.com/rraul10/rraaul10/assets/146001066/6c74bfe2-cd82-4e7d-8739-74e5ebd51c67)
+(https://github.com/rraul10/rraaul10/assets/146001066/6c74bfe2-cd82-4e7d-8739-74e5ebd51c67)
 
 
   
