@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> Hola! Soy Raúl </h1>
 </div> 
-<img src=  ![image]("https://github.com/rraul10/rraaul10/assets/146001066/e0be549c-8470-473b-9825-859ff5264ff2)">
+<img src=  ![image](https://github.com/rraul10/rraaul10/assets/146001066/e0be549c-8470-473b-9825-859ff5264ff2)>
 
 
   
