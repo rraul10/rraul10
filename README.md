@@ -1,10 +1,9 @@
 <div align="center">
 <h1 align="center"> Hola! Soy Raúl </h1>
 </div> 
-(https://github.com/rraul10/rraaul10/assets/146001066/6c74bfe2-cd82-4e7d-8739-74e5ebd51c67)
 
+## SOBRE MI
 
-  
 ¡Hola! Soy Raúl, soy un estudiante de Desarrollo de Aplicaciones Web en el IES Luis Vives. Soy un joven novato 🧑‍🎓que empieza su viaje hacia el mundo🌍 de la informatica💻.
 - FORMACIÓN ACADEMICA:
 - 📚 Grado medio de Instalaciones de Telecomunicaciones. (2021-2023)
