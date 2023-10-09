@@ -1,15 +1,17 @@
-![Untitled Project (5)](https://github.com/rraul10/rraaul10/assets/146001066/107f7518-d7a1-492d-96c4-4f5ce7ae1e25)
+![Untitled Projec![Untitled Project (6)](https://github.com/rraul10/rraaul10/assets/146001066/0468b9e9-f0fb-4b13-8170-6421ece166b7)
 
 <div align="center">
-<h1 align="center">Hola! Soy Raúl</h1>
+<h1 align="center">Hi! Im Raul </h1>
 </div> 
 
-## Sobre mi
+## About me
 
-Soy un estudiante de Desarrollo de Aplicaciones Web en el IES Luis Vives. Soy un joven novato 🧑‍🎓 que empieza su viaje hacia el mundo🌍 de la informatica💻.
-- FORMACIÓN ACADEMICA:
-- 📚 Grado medio de Instalaciones de Telecomunicaciones. (2021-2023)
-- 📚 Educación secundaria obligatoria.  (2015-2019)
+I am a student of Web Application Development at IES Luis Vives. I am a young novice 🧑‍🎓 who is beginning his journey into the world🌍 of computing💻.
+- ACADEMIC TRAINING:
+- 📚 Medium degree in Telecommunications Installations. (2021-2023)
+- 📚 Compulsory secondary education. (2015-2019)
 - HOBBIES
-Soy un chico al que desde pequeño le ha gustado mucho el deporte, hice karate llegando al cinturón negro🥋 y futbol desde que tengo 3 años⚽. La musica es otro de mis hobbies mezclandolo con el deporte, salir a correr solo con musica es uno de mis mejores pasatiempos cuando tengo tiempo.🏃‍♂️
+I am a boy who has really liked sports since I was little, I did karate reaching the black belt🥋 and soccer since I was 3 years old⚽. Music is another of my hobbies mixing it with sports, going for a run alone with music is one of my best hobbies when I have time.🏃‍♂️
+
+
 ![octocat-1696593728356](https://github.com/rraul10/rraaul10/assets/146001066/1c4968ab-9cc0-473a-a0cb-4070681c5be1)
