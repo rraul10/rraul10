@@ -1,4 +1,4 @@
-![programación raul](https://github.com/rraul10/rraaul10/assets/146001066/982f92d4-9912-47e6-8cbe-6e91561a04f9)
+![Untitled Project (5)](https://github.com/rraul10/rraaul10/assets/146001066/107f7518-d7a1-492d-96c4-4f5ce7ae1e25)
 
 <div align="center">
 <h1 align="center">Hola! Soy Raúl</h1>
