@@ -7,10 +7,10 @@
 ## About me
 
 I am a student of Web Application Development at IES Luis Vives. I am a young novice 🧑‍🎓 who is beginning his journey into the world🌍 of computing💻.
-- **ACADEMIC TRAINING:**
+- ### **ACADEMIC TRAINING:**
    - 📚 Medium degree in Telecommunications Installations. (2021-2023)
    - 📚 Compulsory secondary education. (2015-2019)
-- **HOBBIES**
+- ### **HOBBIES**
 I am a boy who has really liked sports since I was little, I did karate reaching the black belt🥋 and soccer since I was 3 years old⚽. Music is another of my hobbies mixing it with sports, going for a run alone with music is one of my best hobbies when I have time.🏃‍♂️
 
 
