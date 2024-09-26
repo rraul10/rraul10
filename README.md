@@ -28,27 +28,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h2>⚡ Proyectos Recientes</h2>
-<ul>
-  <li>🌐 <a href="https://github.com/yourusername/portfolio">Mi Portafolio Personal</a> - Una muestra de mis habilidades de desarrollo web.</li>
-  <li>💼 <a href="https://github.com/yourusername/awesome-project">Proyecto Awesome</a> - Un proyecto en el que estoy trabajando con React y Node.js.</li>
-</ul>
-
 <h2>💪 Hobbies y Pasiones</h2>
 <ul>
-  <li>🏃‍♂️ Me encanta correr maratones y mantenerme activo.</li>
-  <li>🏋️‍♂️ El fitness y el gimnasio son parte de mi rutina diaria.</li>
-  <li>🚴‍♂️ Cuando puedo, salgo a hacer ciclismo y explorar nuevos lugares.</li>
+  <li>🏃‍♂️ Me encanta salir a correr y mantenerme activo haciendo diversos deportes.</li>
+  <li>🚴‍♂️ Cuando puedo, salgo a viajar y explorar nuevos lugares.</li>
 </ul>
 
 <h2>📫 ¡Contáctame!</h2>
 <p>Si tienes alguna pregunta o simplemente quieres decir "¡Hola!", no dudes en enviarme un mensaje.</p>
 
 <p align="center">
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/raul-fern%C3%A1ndez-delgado-9a64a731b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
