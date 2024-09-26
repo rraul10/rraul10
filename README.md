@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy un joven de 20 años, apasionado por el Desarrollo Web y el Deporte!</h1>
+<h1 align="center">¡Hola!</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/YourImageHere" alt="Mi Foto" width="200" height="200"/>
