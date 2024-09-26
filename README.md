@@ -44,7 +44,3 @@
 </p>
 
 <hr/>
-
-<p align="center">
-  <em>"El desarrollo web es como el deporte: cuanto más entrenas, mejor te vuelves."</em>
-</p>
