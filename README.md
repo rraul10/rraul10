@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola!</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/YourImageHere" alt=" width="200" height="200"/>
+  <img src="https://user-images.githubusercontent.com/YourImageHere"/>
 </p>
 
 <p align="center">
