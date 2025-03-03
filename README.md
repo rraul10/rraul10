@@ -13,7 +13,7 @@
 <h2>👨‍💻 Sobre Mí</h2>
 <ul>
   <li>🎓 Actualmente estoy estudiando Desarrollo de Aplicaciones Web, aprendiendo a construir sitios web y aplicaciones dinámicas.</li>
-  <li>🌱 En constante aprendizaje, ahora explorando <strong>JavaScript, React y Node.js</strong>.</li>
+  <li>🌱 En constante aprendizaje.</li>
   <li>🧑‍🏫 Siempre dispuesto a colaborar en proyectos interesantes que me ayuden a mejorar mis habilidades.</li>
   <li>🏋️‍♂️ En mi tiempo libre, me encanta entrenar, correr y mantenerme en forma.</li>
 </ul>
