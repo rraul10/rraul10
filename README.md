@@ -1,24 +1,24 @@
-<h1 align="center">¡Hola!</h1>
+<h1 align="center">Hello!</h1>
 
 <p align="center">
   <img src="/>
 </p>
 
 <p align="center">
-  <b>Estudiante de Desarrollo de Aplicaciones Web</b> | 💻 Codificando el futuro | 🏃‍♂️ Amante del deporte
+  <b>Web Application Development Student</b> | 💻 Coding the future | 🏃‍♂️ Sports enthusiast
 </p>
 
 <hr/>
 
-<h2>👨‍💻 Sobre Mí</h2>
+<h2>👨‍💻 About Me</h2>
 <ul>
-  <li>🎓 Actualmente estoy estudiando Desarrollo de Aplicaciones Web, aprendiendo a construir sitios web y aplicaciones dinámicas.</li>
-  <li>🌱 En constante aprendizaje.</li>
-  <li>🧑‍🏫 Siempre dispuesto a colaborar en proyectos interesantes que me ayuden a mejorar mis habilidades.</li>
-  <li>🏋️‍♂️ En mi tiempo libre, me encanta entrenar, correr y mantenerme en forma.</li>
+  <li>🎓 Currently studying Web Application Development, learning how to build websites and dynamic applications.</li>
+  <li>🌱 Constantly learning.</li>
+  <li>🧑‍🏫 Always willing to collaborate on interesting projects that help me improve my skills.</li>
+  <li>🏋️‍♂️ In my free time, I love training, running, and staying fit.</li>
 </ul>
 
-<h2>🛠️ Tecnologías que Estoy Usando</h2>
+<h2>🛠️ Technologies I'm Using</h2>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -40,16 +40,14 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
 
-
-
-<h2>💪 Hobbies y Pasiones</h2>
+<h2>💪 Hobbies & Passions</h2>
 <ul>
-  <li>🏃‍♂️ Me encanta salir a correr y mantenerme activo haciendo diversos deportes.</li>
-  <li>🚴‍♂️ Cuando puedo, salgo a viajar y explorar nuevos lugares.</li>
+  <li>🏃‍♂️ I love running and staying active with various sports.</li>
+  <li>🚴‍♂️ Whenever I can, I travel and explore new places.</li>
 </ul>
 
-<h2>📫 ¡Contáctame!</h2>
-<p>Si tienes alguna pregunta o simplemente quieres decir "¡Hola!", no dudes en enviarme un mensaje.</p>
+<h2>📫 Contact Me!</h2>
+<p>If you have any questions or just want to say "Hello!", feel free to send me a message.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raul-fern%C3%A1ndez-delgado-9a64a731b/">
@@ -58,3 +56,4 @@
 </p>
 
 <hr/>
+
