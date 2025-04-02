@@ -1,19 +1,21 @@
-# Hello! 👋
+<h1 align="center">Hello!</h1>
 
-## About Me
-I am a 21-year-old student in my second year of Web Application Development. Passionate about technology and always eager to learn and improve in this ever-evolving field.
+<p align="center">
+  <b>Hi! I'm a 21-year-old student in my second year of Web Application Development.</b><br/>
+  Passionate about technology and always eager to learn and grow in this ever-evolving field.
+</p>
 
----
+<hr/>
 
-## 👨‍💻 Who I Am
-- 🎓 Currently studying Web Application Development.
-- 🌱 Learning new technologies and enhancing my skills.
-- 🧑‍🏫 Open to collaborating on exciting projects.
-- 🏋️‍♂️ I enjoy working out and staying active.
+<h2>👨‍💻 About Me</h2>
+<ul>
+  <li>🎓 Currently studying Web Application Development, learning how to build websites and dynamic applications.</li>
+  <li>🌱 Constantly improving my skills and exploring new technologies.</li>
+  <li>🧑‍🏫 Always open to collaborating on exciting projects to gain experience.</li>
+  <li>🏋️‍♂️ In my free time, I enjoy working out, running, and staying active.</li>
+</ul>
 
----
-
-## 🛠️ Technologies I Use
+<h2>🛠️ Technologies I'm Using</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50"/>
@@ -37,28 +39,19 @@ I am a 21-year-old student in my second year of Web Application Development. Pas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50"/>
 </p>
 
----
+<h2>💪 Hobbies & Passions</h2>
+<ul>
+  <li>🏃‍♂️ I love running and staying active with various sports.</li>
+  <li>🚴‍♂️ Whenever I can, I travel and explore new places.</li>
+</ul>
 
-## 💪 Hobbies & Passions
-- 🏃‍♂️ I love running and practicing sports.
-- 🚴‍♂️ I enjoy traveling and discovering new places.
+<h2>📫 Contact Me!</h2>
+<p>If you have any questions or just want to say "Hello!", feel free to send me a message.</p>
 
----
-
-## 📫 Contact Me
 <p align="center">
   <a href="https://www.linkedin.com/in/raul-fern%C3%A1ndez-delgado-9a64a731b/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50"/>
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rraul10&show_icons=true&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rraul10&theme=github-dark)
-
-[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rraul10&theme=github_dark)](https://github.com/rraul10)
-
+<hr/>
