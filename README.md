@@ -57,7 +57,7 @@
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rraul10&show_icons=true&theme=radical)
 
-![Your GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rraul10&theme=github-dark)
+[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rraul10&theme=github_dark)](https://github.com/rraul10)
 
 
 <hr/>
