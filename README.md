@@ -1,41 +1,54 @@
 <h1 align="center">Hello!</h1>
 
 <p align="center">
-  <b>Hi! I'm a 21-year-old student in my second year of Web Application Development.</b><br/>
-  Passionate about technology and always eager to learn and grow in this ever-evolving field.
+  <b>Hi! I'm a 22-year-old Web Application Development graduate.</b><br/>
+  Passionate about technology and highly motivated to keep learning and growing in this ever-evolving field.
 </p>
 
 <hr/>
 
 <h2>👨‍💻 About Me</h2>
 <ul>
-  <li>🎓 Currently studying Web Application Development, learning how to build websites and dynamic applications.</li>
-  <li>🌱 Constantly improving my skills and exploring new technologies.</li>
-  <li>🧑‍🏫 Always open to collaborating on exciting projects to gain experience.</li>
+  <li>🎓 Graduated in Web Application Development, with experience building websites and dynamic applications.</li>
+  <li>🌱 Continuously improving my skills and exploring new technologies.</li>
+  <li>🧑‍🏫 Open to collaborating on projects and gaining professional experience.</li>
   <li>🏋️‍♂️ In my free time, I enjoy working out, running, and staying active.</li>
 </ul>
 
-<h2>🛠️ Technologies I'm Using</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="50"/>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50"/>
-  <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" title="Cypress" alt="Cypress" width="50"/>
+
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="50"/>
+
+  <br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50"/>
+
+  <br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50"/>
+
+  <br>
+
+  <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" title="Cypress" alt="Cypress" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="50"/>
 </p>
 
 <h2>💪 Hobbies & Passions</h2>
@@ -57,6 +70,5 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rraul10&show_icons=true&theme=radical)
 
 [![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rraul10&theme=github_dark)](https://github.com/rraul10)
-
 
 <hr/>
